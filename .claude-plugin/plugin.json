@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
   "name": "workflow-kit",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "完整的 Claude Code 工作流套件：discovery → planning → execution → diagnosis → verification → documentation-update → deploy",
   "author": {
     "name": "Infinity-light",
